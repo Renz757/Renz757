@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Renz757
+- 👋 Hi, I’m Lorenzo
 - 👀 I’m interested in all things Front Web Development 
 - 🌱 I’m currently learning Css/Scss, Javascript, and Python 
 - 💞️ I’m looking to collaborate on anything always up for a challenge 
