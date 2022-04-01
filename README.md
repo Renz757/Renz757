@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lorenzo
 - 👀 I’m interested in all things Front Web Development 
-- 🌱 I’m currently learning Css/Scss, Javascript, and Python 
+- 🌱 I’m currently learning Css/SASS, Bootstrap, and Javascript(React)
 - 💞️ I’m looking to collaborate on anything always up for a challenge 
 - 📫 How to reach me @Renz_757 on twitter 
 
