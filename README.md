@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lorenzo
 - 👀 I’m interested in all things Front End Web Development 
-- 🌱 I’m currently learning CSS/SASS, Tailwindcss, JavaScript, React, and some back end development.  
+- 🌱 I’m currently learning CSS/SASS, Tailwindcss, TypeScript, React, and some back end development.  
 - 💞️ I’m looking to collaborate on anything always up for a challenge 
 - 📫 LinkedIn: https://www.linkedin.com/in/lorenzo-tinsley-0b8049139/
 <!---
